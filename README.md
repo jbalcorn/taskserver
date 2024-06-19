@@ -1,6 +1,9 @@
 # Taskserver
 
-Thank you for taking a look at Taskserver!
+> [!CAUTION]
+> Taskserver is only compatible with Taskwarrior 2.x, and is no longer actively developed.
+
+## About
 
 Taskserver is a daemon or service that will allow you to share tasks among
 different client applications, primarily Taskwarrior.
